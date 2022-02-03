@@ -4,7 +4,7 @@ Back-end Developer
 
 ## ➤ About me 
 
-Information Systems graduated at University COTEMIG. 🚀 📡
+Information Systems graduated at University FIAP. 🚀 📡
 
 - :earth_americas: Belo Horizonte - Brasil
 - ❤️ PHP, Laravel, .NET, Javascript, Node.
