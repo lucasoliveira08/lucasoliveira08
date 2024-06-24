@@ -3,7 +3,7 @@
 
 # 💫About Me :
 
-- 🔭 I’m currently working on [CI&T](https://www.ciandt.com/)
+- 🔭 I’m currently working on [BTG Pactual](https://www.btgpactual.com/)
 
 - 🌱 I’m currently learning **Go**
 
