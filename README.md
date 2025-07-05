@@ -3,7 +3,7 @@
 
 # 💫About Me :
 
-- 🔭 I’m currently working on [BTG Pactual](https://www.btgpactual.com/)
+- 🔭 I’m currently working on [Mercado Livre](https://www.mercadolivre.com.br/)
 
 - 🌱 I’m currently learning **Go**
 
