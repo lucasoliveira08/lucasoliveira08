@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Lucas Oliveira</h1>
-<h3 align="center">Back-end Developer</h3>
+<h3 align="center">C# (.NET) | Backend & Software Architecture | AI Engineering</h3>
 
 # 💫About Me :
 
@@ -36,9 +36,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=lucasoliveira08&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lucasoliveira08&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasoliveira08&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=lucasoliveira08&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
