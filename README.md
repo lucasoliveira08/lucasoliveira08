@@ -1,9 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Lucas Oliveira</h1>
-<h3 align="center">C# (.NET) | Backend & Software Architecture | AI Engineering</h3>
+<h3 align="center">Technical Leadership & Software Architecture | Full-Stack · C# (.NET) & Angular | AI Engineering</h3>
 
 # 💫About Me :
 
-- 🔭 I’m currently working on [Mercado Livre](https://www.mercadolivre.com.br/)
+- 🔭 I’m currently working on [NEOGOV](https://www.neogov.com/)
 
 - 🌱 I’m currently learning **Go**
 
